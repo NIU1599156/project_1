@@ -1,6 +1,8 @@
-# Part-A
-
+# Pràctica 1: Fonaments d'Enginyeria
+## Nom i NIU de l'equip de pràctiques
 Ivan Peñarando Martínez NIU 1599156 Jan Naverrete Santos NIU 1571232 Isaac Pascual Mauriz NIU 1597521
+
+## Part-A de la pràctica
 
 La pràctica Oscars es basa en l'anàlisi, tria i organització de les diverses dades que ens proporcionen sobre els guanyadors dels Oscars des de l'any 1928 fins al 2016. En aquestes taules estan organitzats per any tots els guanyadors. Els valors de camps que ens proporcionen són el nom i cognoms, l'edat, l'any que va guanyar i el nom de la pel·lícula a la qual van ser premiats.
 
@@ -12,5 +14,6 @@ Com executar: 1- Entrem a la carpeta de la pràctica i executem el programa amb 
 
 Les comandes que hem utilitzat han estat sobretot: llegir i escriure funcions amb echo, els diversos bucles fets amb while així com més d’un case per poder esquematitzar les diverses opcions molt més eficientment. També hem utilitzat l’eina de comandes de cercat i estructuració AWK, la qual ens ha servit de gran ajuda a l’hora de buscar informació precisa en un document de grans dimensions. En conjunt i harmonia amb l’AWK també hem aplicat comandes com grep, tail, head, seed… també amb el mateix propòsit de cerca.
 
+### Conclusions
 Les conclusions de la pràctica són les següents; aquesta pràctica ha tingut una bona corba d’aprenentatge per part de tots, ja que com hem dit anteriorment, era la primera vegada que ens enfrontàvem a un projecte de git, grupal i compartit en el núvol. No obstant ens hem pogut defensar correctament i hem assolit els apartats que se'ns demanava.
 
