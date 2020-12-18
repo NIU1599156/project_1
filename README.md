@@ -1,6 +1,8 @@
 # Pràctica 1: Fonaments d'Enginyeria
 ## Nom i NIU de l'equip de pràctiques
-Ivan Peñarando Martínez NIU 1599156 Jan Naverrete Santos NIU 1571232 Isaac Pascual Mauriz NIU 1597521
+- Ivan Peñarando Martínez / **NIU**: 1599156
+- Jan Naverrete Santos / **NIU**: 1571232 
+- Isaac Pascual Mauriz / **NIU**: 1597521
 
 ## Part-A de la pràctica
 
